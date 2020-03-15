@@ -1,2 +1,2 @@
 # xs
-xpertsale
+xpertsale repo for git command demo
