@@ -1,2 +1,2 @@
-# Solaxsoft
-solaxsoft repo for git command demo
+# xs
+xs repo for git command demo
