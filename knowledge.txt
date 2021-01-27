@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=fmh94mNQHQc
+
+- setup google cloud instance using Ubuntu
+- public and private key setting
+- how to disable ssh key
